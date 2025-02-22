@@ -4,10 +4,10 @@
 
 ## 👨‍💻 Autor
 
-**Bruno Oliveira**
-- LinkedIn: [Bruno Oliveira](https://www.linkedin.com/in/seu-linkedin)
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- Email: seu-email@exemplo.com
+**Bruno Couto**
+- LinkedIn: [Bruno Couto](https://www.linkedin.com/in/bruno-couto-57103355/overlay/contact-info/)
+- GitHub: [@brunocouto](https://github.com/brunocouto)
+- Email: brunocoutoengenheirodesoftware@gmail.com
 
 ## 📋 Sobre o Projeto
 
@@ -56,4 +56,4 @@ Este projeto foi criado como parte do portfólio pessoal, demonstrando habilidad
 
 ---
 
-Copyright © 2024 Bruno Oliveira. Todos os direitos reservados. 
+Copyright © 2024 Bruno Couto. Todos os direitos reservados. 
